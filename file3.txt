@@ -3,3 +3,5 @@ I am a fix file which be used ti fix the bug
 fixed another bug
 
 one more bug detected 
+
+another fix message for pink mode
